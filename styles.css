@@ -1,0 +1,32 @@
+header {
+    background-color: aqua;
+    text-align: center;
+    border-radius: 15px;
+    padding:30px 30px 25px;
+}
+.quote{
+    font-size: 2em;
+}
+.btn-large{
+    margin: 0.5em;
+}
+.card{
+    text-align: center;
+    width: 45em;
+
+}
+.new-quote-button{
+    background-color: aqua;
+    border-color: blue;
+    border-radius: 15px;
+    padding:30px 30px 25px;
+    font-weight: bold;
+}
+#button:hover{
+    background-color: cadetblue;
+}
+.container{
+    border-radius: 15px;
+    padding:30px 30px 25px;
+}
+
