@@ -8,6 +8,7 @@ var quotes = [
     "Inspiration is for amateurs, the rest of us just show up and work.",
     "Being nice takes work that's why I really like people who are nice.",
     "Work hard, be brave.",
+    "Do what you cant. " ,
     "Ideas are cheap. Ideas are easy. Ideas are common. Everybody has ideas. Ideas are highly, highly overvalued. Execution is all that matters.",
     "Always ask yourself: Am I living the life I want? Constantly evaluate where you are in life to make sure you are heading towards the direction you want.",
     "I actively pursue experiences that are unlike any others that I've experienced and cultures that I don't know and unfamiliar places and unfamiliar history and things like that.",
